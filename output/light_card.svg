@@ -96,12 +96,12 @@
                     <rect y="6" width="8" height="18.125" rx="2" fill="#FFC107" />
                     <rect x="24" y="10.125" width="8" height="14" rx="2" fill="#F44336" />
                     <rect x="12" width="8" height="24.125" rx="2" fill="#2196F3" />
-                  </svg>  's CodeForces Stats
+                  </svg> Mogili Manikanta's CodeForces Stats
                 </th>
               </tr>
               <tr>
                 <td style="padding-bottom: 15px">
-                   <span style="color: #22C4AE">specialist </span> (max: <span style="color: #22C4AE">specialist</span>) | Since 0 years
+                  SRGECG | <span style="color: #22C4AE">specialist </span> (max: <span style="color: #22C4AE">specialist</span>) | Since 0 years
                 </td>
               </tr>
             </thead>
@@ -138,7 +138,7 @@
                     <path d="m5.354 7.146.896.897-.707.707-.897-.896a.5.5 0 1 1 .708-.708z" />
                   </svg>Accepted
                 </td>
-                <td>155</td>
+                <td>160</td>
               </tr>
               <tr style="animation-delay: 750ms">
                 <td>
